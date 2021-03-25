@@ -28,7 +28,7 @@ var R = {
   PART_ID : 0xFF
 };
 
-function MAX30102(options,r,w) {
+function MAX30101(options,r,w) {
   this.r = r;
   this.w = w;
 
